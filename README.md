@@ -1,3 +1,5 @@
+   > **Umgezogen:** Dieses Projekt wird in [hflocki/camper-mqtt](https://github.com/hflocki/camper-mqtt) weitergeführt (Ordner `firmware/<gerät>`).
+
 > [!WARNING]
 > **IN ENTWICKLUNG – kein fertiges Projekt.** Am echten LIN-Bus noch nicht getestet. Nutzung auf eigenes Risiko.
 
